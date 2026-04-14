@@ -97,8 +97,3 @@ Open `notebooks/era_classification.ipynb` in Jupyter and run all cells.
 - scikit-learn (RandomForestClassifier)
 - matplotlib
 
----
-
-## Course
-
-**DTSC 3601** — Assignment 4
