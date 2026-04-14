@@ -49,7 +49,7 @@ The most important predictors of a Good ERA, ranked by Random Forest feature imp
 MLB-ERA-Classification-DTSC3601/
 ├── README.md
 ├── notebooks/
-│   └── era_classification.ipynb     # Full model code
+│   └── MLB_ClassificationProj.ipynb     # Full model code
 ├── data/
 │   └── Team_stats_2010-2025.csv     # Raw dataset
 └── outputs/
@@ -92,7 +92,7 @@ Open `notebooks/era_classification.ipynb` in Jupyter and run all cells.
 
 ## Technologies Used
 
-- Python 3
+- Python, Jupyter Notebook
 - pandas, numpy
 - scikit-learn (RandomForestClassifier)
 - matplotlib
