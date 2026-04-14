@@ -65,8 +65,8 @@ MLB-ERA-Classification-DTSC3601/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/nickjones8501/MLB-ERA-Classification-DTSC3601
-cd MLB-ERA-Classification-DTSC3601
+git clone https://github.com/nickjones8501/MLB-ERA-Classification
+cd MLB-ERA-Classification
 ```
 
 ### 2. Install dependencies
@@ -75,7 +75,7 @@ pip install pandas numpy matplotlib scikit-learn
 ```
 
 ### 3. Run the notebook
-Open `notebooks/era_classification.ipynb` in Jupyter and run all cells.
+Open `notebooks/era_classification.ipynb` in Jupyter or VS Code and run all cells.
 
 > **Note:** Make sure `Team_stats_2010-2025.csv` is placed in the `data/` folder before running.
 
